@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67646028155",
+    "firebase_url": "https://lab8mob403-6402d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab8mob403-6402d",
+    "storage_bucket": "lab8mob403-6402d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67646028155:android:dac78a1f1c806e198f65de",
+        "android_client_info": {
+          "package_name": "com.example.lab8_mob403"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67646028155-lid8rl9bkni9rn1ijs00aq7v7dofp62i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoDLcTLU3pCna1hwFGJJs4SnUCKgyvLEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67646028155-lid8rl9bkni9rn1ijs00aq7v7dofp62i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
